@@ -8,7 +8,7 @@ markdown: kramdown
 disqus: 
 google_analytics: 
 title: wack's blog
-indexContent: true #在首页是否显示文章详情，true为显示
+indexContent: false #在首页是否显示文章详情，true为显示
 defaults:
   -
     scope:
