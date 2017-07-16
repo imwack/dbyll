@@ -9,6 +9,7 @@ disqus:
 google_analytics: 
 title: wack's blog
 indexContent: false #在首页是否显示文章详情，true为显示
+blogName: wack's blog #博客标题blogDesc: 博客介绍
 defaults:
   -
     scope:
