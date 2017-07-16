@@ -8,7 +8,7 @@ markdown: kramdown
 disqus: 
 google_analytics: 
 title: wack's blog
-
+indexContent: true #在首页是否显示文章详情，true为显示
 defaults:
   -
     scope:
@@ -18,14 +18,14 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: wack
+  name: w03k
   email: i.am.wack.1993@gmail.com
   github: imwack 
   twitter: w0_3k
   pinterest: 
   linkedin: 
-  bio: Keep calm...
-  email_md5: 
+  bio: Nice to meet you, where you've been?
+  email_md5: 3e16476c2a29901c74bad612da8b0f4d
 
 rss_path: feed.xml
 categories_path: categories.html
@@ -36,5 +36,7 @@ tags_path: tags.html
 
 BASE_PATH:
 
-gems:
+#gems:
+plugins:
   - jekyll-paginate
+#port:5000
