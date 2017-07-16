@@ -9,8 +9,9 @@ disqus:
 google_analytics: 
 title: wack's blog
 indexContent: false #在首页是否显示文章详情，true为显示
-blogName: wack's blog #博客标题blogDesc: 博客介绍
-favicon:  
+blogName: wack's blog #博客标题blogDesc: 博客绍
+favicon:  http://www.gravatar.com/avatar/3e16476c2a29901c74bad612da8b0f4d?s=150
+
 #encoding: UTF-8
 defaults:
   -
